@@ -1,3 +1,5 @@
+#!/usrbin/env python
+# _*_ coding: utf-8 _*_
 #tarea3B
 #LUZ MARIA CALDERON AGUILERA
 import matplotlib.pyplot as plt

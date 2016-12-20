@@ -1,4 +1,7 @@
-
+#!/usrbin/env python
+# _*_ coding: utf-8 _*_
+#tarea6
+#LUZ Maria calderon aguilera
 import math as math
 h= input("pedir latitud")
 g=input("pedir longitud")
